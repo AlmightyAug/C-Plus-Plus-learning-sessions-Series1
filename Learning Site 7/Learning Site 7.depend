@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1435156346 source:d:\codeblocks pe\codeblocksprojects\learning site 7\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+

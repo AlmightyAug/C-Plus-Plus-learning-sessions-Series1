@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1439135576 source:d:\codeblocks pe\codeblocksprojects\learning site 18\augustine.cpp
+	"Augustine.h"
+	<iostream>
+
+1439135132 d:\codeblocks pe\codeblocksprojects\learning site 18\augustine.h
+
+1439135634 source:d:\codeblocks pe\codeblocksprojects\learning site 18\main.cpp
+	<iostream>
+	"Augustine.h"
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1449568914 source:d:\codeblocks\codeblocks projects\learning site 21\main.cpp
+	<iostream>
+	<math.h>
+	<cmath>
+	<string>
+	<cstdlib>
+	<float.h>
+	<iomanip>
+

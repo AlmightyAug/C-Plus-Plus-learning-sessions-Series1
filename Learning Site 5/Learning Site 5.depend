@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1435030995 source:d:\codeblocks pe\codeblocksprojects\learning site 5\main.cpp
+	<iostream>
+	<cmath>
+	<vector>
+	<algorithm>
+	<string>
+
